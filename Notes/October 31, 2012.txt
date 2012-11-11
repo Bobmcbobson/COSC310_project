@@ -1,0 +1,48 @@
+When a new functionality is added
+	Write a test
+	Run the test (it will fail initially because the functionality isn't implemented)
+	If it fails
+		write and refactor the code
+
+Benefits of TDD
+	You don't revert to Cowboy Coding
+	You design as you go -- you know what you are doing (clarity)
+	code coverage
+		at least one test per code segment
+	regression testing
+		incremental development process enables regression tests to be run any time
+	Simplified debugging
+		When a test fails, it shoudl be obvious where the problem lies
+	Can use tests as a form of documentation
+
+Stress testign
+	performance testing at a system level
+	have to see if making demands outisde the design limits of the software breaks it
+	eg: Process 300 transactions per second
+		Do less than 300 transactions per second, should do this
+		gradually increase the load beyond 300 transactions per second
+		stop when the load is well beyond 300 or when the system fails
+
+User testing
+	Testing inolving actual users using the system
+	Alpha testing
+		users work with the development team at the developer site
+	Beta testing
+		Software is released but not the official version
+		Users can experiment and raise problems as they have discovered
+	Acceptance testing
+		Users test the system to decide whether or not it is ready to be accepted for deployment in user's environment
+
+Software quality
+	what are desirable qualities?
+		correctiveness
+			get the right output
+			perform according to specs
+		development
+			well documented
+			efficiency: If a program is not written efficiently, a test can take a long time
+		user's perspective
+			usability, easy to navigate
+			fault free
+			fast, not lagging
+

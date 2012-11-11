@@ -1,0 +1,8 @@
+COSC 310
+Assignment 2
+Group coding
+Partners: Bryan Lennox and John Pick
+
+Editing other people's code was quite easy.  By the time it was my turn to write code, the program was already generating the correct output.  All I had to do was edit the logic to iterate through the loop, making it more efficient and create a few "print" statements to add spaces to reformat the output to look nicer.
+
+Neither of my partners edited my code because there was nothing else to do after my turn 

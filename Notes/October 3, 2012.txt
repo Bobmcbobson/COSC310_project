@@ -1,0 +1,34 @@
+COCOMO
+	Constructive cost model
+	data collected from 63 software projects
+		actual LoC
+		actual effort
+		actual schedule duration
+
+regression analysis was used to develop equations that best describe the data
+	a statistical technique used to find relationships between variables for predictinv values
+
+(basic) CoCoMo overview
+	3 modes(project types)
+		organic, semi-detached, embedded
+	3 levels of analysis (varies in accuracy)
+		basic, intermediate, detailed
+idea
+	estimate effort
+	estimate development time
+	estimate staffing needs
+	estimate productivity
+
+Modes
+	Organic mode
+		smaller team sizes, familiar with enviornment, little innovation, few constraints and deadlines
+	Semi-Detached
+		a mix of experienced and inexperienced team members
+	Embedded mode
+		a complex system, diverse nature of projects (air traffic, weapon systems)
+
+Basic Analysis
+	Effort
+		E = a * size^b
+	Estimate development time
+		TDEV = c * E^d

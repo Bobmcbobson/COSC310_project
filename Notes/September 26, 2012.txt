@@ -1,0 +1,46 @@
+Case tools
+	Case Computer Aided Software Engineering
+		engineering discipline to software development
+
+
+Why use CASE tools?
+	reuction of effort
+	quicker development
+	reduction of defects
+		software fixes this
+	easier identification of defects
+	increased reuse
+		don't have to recode things
+	increased standardization
+
+Classification by Task Type...
+
+Information engineering tools
+	provide models to derive specific information systems
+		not necessarily technology systems
+		could go into a restaurant with no tech at all, their info system is transfer of money etc.
+	Information system: A system that defines the interaction between people, processes and data (information)
+	Models
+		business objects
+		their relationships, one object to another
+		how objects might flow between different business areas within a company
+
+Project planning tools
+	project templates
+	size estimation
+	cost estimation
+	planning(decomposing tasks, depicting relationships)
+	scheduling (across multiple projects)
+	progress monitoring
+	projections
+
+Risk analysis tools
+	help identify...
+		list of potential risks
+		events causing these risks
+		probability of occurence of each event
+		diagramming the dependencies of risks
+		calculating risk
+		triggers for risks
+		monitoring risks (if ongoing)
+		documented plan for mitigating specific tasks

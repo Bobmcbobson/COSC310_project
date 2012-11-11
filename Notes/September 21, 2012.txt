@@ -1,0 +1,149 @@
+September 21, 2012
+
+Managing People:
+	need to manage people who work individually
+	"People are an organization's most important asset"
+
+	Some issues in personnel management
+		Respecting your staff -- can be harder than you think
+		Selecting staff -- Might seem like a good candidate but it doesn't work out for many reasons
+		Motivation -- Enviornment might not promote it, might do less and less work if you are less motivated
+		Group management
+
+People management factors
+	Remeber these issus
+		consistency
+			Treat everyone in a team equally, don't favour your friends
+			ie.  If you know 2 programmers out of 10 work at home, could be due to favouritism, might feel discriminated against
+		Respect
+			Different people have different skills and experiences, just because they don't work as fast on something doesn't mean they are not as good
+		Inclusion
+			Involve all members
+			Ensure all views are considered
+			can be hard if new people come in
+		Honesty
+			Be honest about what is going on
+			Don't just try hard not to hurt peoples' feelings, let them know what they are doing wrong
+			Don't necessarily be too critical
+		Diplomacy
+			Be careful in discussionsto be honest, positive supportive
+
+Staff selection
+	Definition of roles and responsibilities are crucial in hiring new staff
+	Good hiring approaches will increase the chance of hiring good staff
+	Hire for trait, train for skill
+		Get to know you, see what you know
+		If somebody is not as good or experienced but is good to work with might be hired over somebody not easy to work with
+	Important factors to consider
+		quality of performance of individual persists over time
+		relatively small percent of those hired are responsible for the best and worst performances
+
+Hiring process
+	Prepare a job description
+		Prioritize most important skills needed for the job
+		technical proficiency may be less important than soft skills or social skills
+	Initial screening of candidates
+		social skills
+		technical domain knowlege
+	Interview, site, visit, reccomendations
+		Personal factors: attitude, flexibility, work ethic, determination, personality, communication skills, personal skills
+	final selection
+		"gut instinct"
+
+Who would you hire?
+	Looking for an "all around" computer support person.  Responsibilities:
+		install and manage email, web servers, existing apps
+		provide general help and user support
+		perform limited development of simple DBs, websites, programs to connect data between app
+
+	Candidates:
+		Genius, top of the class, knowlagable, likes challenges, no practical or team experience
+		Hacker, near the bottom of the class in grades, much programming experience and knowlege of servers.  Much of this is self learned
+		Intern, average grades, involved in things like lab supervision, limited knowlege of server architectures, general knowlege of email and web servers
+
+Who would you hire?
+	Looking for a person to join a maintanance team (currently 5 people), for a system on IBM mainframe
+		must be able to program in IBM RPG and use network DBs
+		work well with experienced team in a  structured setting
+	be able to construct web interface data warehouse
+
+Employment testing
+	many companies use tests to assess their candidates
+	Aptitude tests
+		measure an individual's performance in a particular area
+			ex IBM advantages for programmers
+		Many have been discontinued
+			No proof that high mark equates top performance
+
+	Achievement tests
+		predict invidivual's performance on the basis of what they know
+		can often send in class projects
+
+	Psychometric tests
+		designed to measure individual's motivation and categorize personality and behavior
+		Examples
+			PPA(Personal Profile Analysis)
+
+	MBTI
+		Identifies 4 bipolar dimensions
+		each personality is a 4-letter code
+		16 different personality descriptions
+		fill out questionnaire ("test insturment")
+		Usually administered by formally trained professionals
+
+	Trying to find
+		Introvert VS Extrovert
+		Sensing VS Intuitive -- Using facts or "6th sense"
+		Thinking VS Feeling -- logical and analytical VS emotionial and valuing judgments
+		Perception VS Judgment -- Reactive spontaneous VS
+
+MTBI implications
+	Introvert/Extrovert: Source and direction of energy
+		I: Internal concentration, need a quiet space, must convince themselves of wanting to do something
+		E: Need external contact, they are happy if they are socializing
+	Sensing/Intuitive
+		S: Prefers emperical sensory data, "the data tells me this so it must be true"
+		E: Prefers patterns and abstractions
+	Thinking/Feeling
+		T: Makes decisions according to impersonal logic
+		F: Makes a decisiona ccording to their personal values
+
+What makes you want to work for somebody else?
+	We go to school for ourselves
+	When we go to the real world
+		Money
+		Geography
+		Enjoyment
+			nature of the work
+			co-workers
+		Free training
+		self-value
+			how much the work means to you
+
+Motivating people
+	important role of a manager
+	Some motivating factors
+		Basic needs: food, sleep
+		personal needs: respect, self-esteem, satisfaction valued
+		social needs: acceptance, inclusion human interactions
+	motivation tools
+		social - provide communal facilities, team building activities
+		esteem - recognition of achievements, appropriate awards
+		self-realization - training, responsibility
+
+Also: Moods are contagious
+	being around happy people makes you happy
+	being around sad people makes you sad
+
+Becoming a leader
+	motivate yourself when you feel negative
+	sell an idea/program/plan/solution
+	understand, predict, control your own emotions
+
+Motivating others
+	understand why certain things annoy/please
+	understand sources of motivation for others
+	affect behavioural change in others
+	facilitate team problem solving
+	give credit to others
+	resolve conflicts in a win-win way

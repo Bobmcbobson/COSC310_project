@@ -1,0 +1,9 @@
+Graphics
+Database
+What people can choose
+Server
+
+I need to...
+learn PHP, Javascript
+search ways to do graphics in Javascript
+	--Go to W3 schools

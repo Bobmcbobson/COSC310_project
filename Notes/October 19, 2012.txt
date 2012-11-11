@@ -1,0 +1,28 @@
+Types of people
+	one person may just think of courses, prereqs and job implications
+		think about alternatives after
+
+User story
+	short description of a feature
+	written in a client's language
+		easy for them to understand
+	should provide only enough detail to make a low-risk estimate of how long it would take to implement
+
+role-goal-value form
+	as a <role>
+	I can <activity>
+	for <business thing>
+
+	ex
+		as an instructor I need to log in to connect in order to post student marks
+		as a gmail user I can select and highlight a conversation for further action
+		as a  user I can backup selected folers so the backup drive isn't filled with junk
+
+Traditional vs agile requirements
+	"The system shall..."
+	does not give rational or context for the requirements
+
+Writing stories
+	should get the client to do this
+	smaller is better, easier to write and test
+

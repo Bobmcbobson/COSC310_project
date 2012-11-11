@@ -1,0 +1,52 @@
+A community leader would fill out the inital page
+	city table in the database
+
+Possibly have a main image for all cities
+	perhaps add small things for different cities
+	would be hard to make look good
+
+Mobile is key for Rural communities
+
+Possibly take more info
+	too much is not good though
+	might be bad to add the wrong info
+smaller icons
+
+might be crowded if they add everything
+	don't necessarily need to be pretty
+
+Database
+	Thinking of having a table of cities, entered by community leader
+	table of users with randomly generated id and info
+	user selection, tied to the user table
+	image selections in binary
+		sounds good to Wayne
+
+Wayne says we are using a Huroku server
+	not starting with lots of data
+	free
+	good launching pad
+
+The "Fun" stuff
+	how does the data interact with eachother?
+		combining the design and vision box
+		look at see how many people have selected each option
+
+options can be tied to many visions and vice-versa
+
+for recommendations
+	show them what they picked, the aggregate and the recommendation
+	based on personalities
+
+expected utility
+
+build a system where it's easy to change the numbers
+	how options apply to visions
+
+possibly limit the number of options they choose
+	perhaps a flat number or cost for each one and a total budget
+
+set up huroko server
+look at algorithm and utility functions
+
+we need images!

@@ -1,0 +1,89 @@
+Project sizing
+	prediction of the amount of code needed to fulfil requirements
+
+estimate the size of fsoftware
+size measurements in various units
+	lines of code
+	function points
+	feature points
+
+
+approaches for sizing
+	lines of Code (LoC)
+
+In counting lines of code, somebody may have more spaces and brackets than somebody else
+ignore:
+	comments lnes, debug code, temporary code, reused source statements etc.
+	only delivered source code lines should be counted
+count data definitions, invocations, calls to macros once
+translate LoC to assembly equivalent lines
+
+Using LoC to measure productivity
+	many organizations measure productivity as LoC produced
+		average productivity rate remains over the last 2 decades about 3000 delivered LoC/programmer per year
+	what's wrong with this?
+		# defects, not mention how many bugs there are
+		effeciency of the code/better design
+		relationship between effort and LoC is not linear
+			programmer's skill level
+			conceptual complexity of code
+		does not distinguish between generated VS handwritten code
+			code generators tend to produce excessive code (like in eclipse)
+
+Additional issues
+	difficult to accurately estimate early in the lifecycle
+		actual LoC not known until near project completion
+	only way to predict LoC is by analogy and expert opinion
+	Higher level languages require fewer lines of code than lower level languages
+		lower level languages take a lot of work
+
+LoC strengths
+	easy to measure
+	widely used an accepted
+	there are automated tools to help generate these predictions
+	directly relates to the end product
+		all software products have them
+	lends itself well to re-estimation
+
+LoC size calculation
+	intuition
+		subjective estimate based on experience
+		compare new software to functionality of existing one and adjust estimate
+	Participative (via expert opinion)
+		Get teh opinions of team members who are formally involve dinthe estimation process
+		product WBS is used to arive at duration estimates
+		3 estimates are derived:
+			optimistic (O) = min value
+			pessimistic (P) = max value
+			realistic (R) = most likely value
+		LoC = (O + 4R + P)/6
+
+Historical (fuzzy logic)
+	gather size data on previously developed programs
+	divide data into 5 size categories
+		very large, large, medium, small, very small
+		establish size ranges
+		include all existing and expected products
+Pros and Cons of historical sizing
+	Advantages
+		based on relevant historical data
+		easy to use
+		doesn't require special tools or training
+		provides reasonable estimates where new work is like prior experience
+	Disadvantages
+		Requires lots of data
+		Estimators must be familiar with previous programs
+		only provies a crude sizing
+		not useful for new program types
+		not useful for much for programs larger or much smaller than existing data
+
+
+Function points as a Unit of Size
+	Function points (FPs) as a unit of measurement
+	accounts for the number of functions needed
+	accounts for complexity of functions
+	uses design documents to derive size
+		data flow diagram
+		Entity-relationship diagram
+		data dictionary
+	can be used early in the life cycle

@@ -1,0 +1,161 @@
+Scope, schedule and cost determain quality
+
+Importance of project management
+	people won't use something if people don't use it
+If the scope is too large the project team wont' beable to meet expectations
+
+If the cost is too high, project may be cancelled
+
+To succeed
+	Need good planning and organization
+	appropriate life cycle, suitable team
+
+What makes a good manager?
+	Somebody who knows what their team is doing
+	Lets his people be creative
+	Should push his team members while being respectful
+
+If the PM does not help you...
+	Might get stuck, nobody to turn to
+	Might make the wrong assumptions, no way of knowing if the PM isn't there to help
+	Not much feedback
+
+If the PM is too involved...
+	Might get under my skin
+	Does not seem to trust me
+
+Competencies for a PM
+	Product compitencies, project competencies, people competencies
+	Basically, not all technical stuff
+
+If a PM has no project competency
+	waste money, waste time
+
+If a PM has no people competency
+	could stress people out, making them less productive
+
+Main responsibilities
+	Project planning
+		Formal project creation
+	result of a planning exercise is the creation of documents
+		Industry chart, statement of work
+			what the project is
+		academia: project proposal, project plan
+			how the project will be carrid out
+		both include why the project is needed
+
+Project Sizing
+	Prediction of hte amount of code needed to fulfill requirements
+	estimate size of software
+	size could be measured in...
+		lines of code
+		function points
+		feature points
+		number of processes in a data flow diabram
+		number of objects, attributes, services in an object oriented diabram
+
+Project Estimation: prediction of the resources that are needed for a project
+	estimated in terms of effort, not dollars
+	considers
+		calendar time
+		staffing availability, capability, productivity
+			some people are better at working than others
+		budget constraints
+			don't see much of this as a programmer
+		creeping requirements
+			scope might change, probably increase
+		what if- analysis
+			ie: what if an employee is sick or switch to a new project
+
+Project scheduling
+	reflects all of the relationships amoung resources and activities of a project
+		mapped to a calendar
+		includes truly productive working hours
+			most places we work 8 hours per day
+				consider 5 of these hours productive, hard to work 8 hours straight
+		a best guess of hte future
+	ways to represent a schedule
+		simple table
+		Gantt chart (will see this later)
+		pert diagrams (more for schedule issues)
+	Indicates dates of major milestones
+		put those major dates into the schedule
+	Compares estimates vs actuals
+		start with an estimate, update it with actual time as you go
+
+Project monitoring
+	management of scope, schedule, cost, quality
+	change control process
+	metrics = measurement of an observable unit (lines of code, hours worked)
+		want to know why an employee is working at a faster or slower pace than others or usual
+		establish baselines
+	progress management
+		want to make sure a project is going well a few days, weeks and months into the project
+			(earned value management)
+	risk management
+		making sure different aspects of risks are covered
+			how likely people are to leave or resources will be used up
+		Can try to find countermeasures to deal with these risks
+
+Project quality control
+	defects should be highlighed and brought to surface for corrective action
+		DO NOT hide this, bugs are not shameful, must figure out how to fix this
+	Improved quality saves money and improves business value
+		feel good about accomplishing more
+	Quality assurance
+		Get people to try to break your stuff
+		have kids come in and do crazy things to break your stuff, they are good at it
+
+Communication in Meetings
+	basic objectives of meetings
+		information exchange
+			found something
+		problem solving
+		decision making
+			may need to cut features
+		planning
+			which parts of the system to build first
+		evaluation
+			perhaps eachother, other employees
+	meeting roles
+		Somebody calls the meeting (called the client, not necessarily the actual client)
+		participants, scribe(takes notes), facilitator/coach(directs the meeting)
+	meeting input
+		agenda
+			what you are going to talk about
+		specify: attendies, plan/schedule, resources
+	meeting output
+		minutes (include in the weekly reports!)
+		specify decisions, outcomes, action items
+
+Handling meetings
+	meeting rules
+		agenda published before meeting
+			like to know why we are going, caller sets it up
+		must have output
+		output must be published to common project space
+			need to keep this somewhere everyone can see it
+	negotiation
+		not the same as bargaining--want a win-win situation
+		skills are very important for any manager
+	Conflict resolution
+		recognition and support of individual differences
+
+Project reporting
+	could be daily, weekly, monthly, quarterly
+		determined in the project plan
+			more intensive projects may require more detailed reports
+			possibly at the end of a phase or end of a major milestone
+	Normally includes
+		scope
+		accomplishments
+		critical incidents and mitigation
+			lost employees
+		plans (schedule, cost, estimates vs actuals)
+	visual representation
+		simpler, faster grasp information (if used properly)
+
+Agile project management
+	adopts an emperical approach
+		do not want to do too much planning
+		basically take data from the project to do estimates for the project

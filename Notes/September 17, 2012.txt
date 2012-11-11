@@ -1,0 +1,49 @@
+September 17, 2012
+COSC 310
+Software Engineering
+
+Pair Programming
+	One computer, one programmer, one backseat programmer
+
+	Roles
+		Driver (programmer)
+		Controls the computer
+		responsible for creating tests and code
+		Explains his inentions as he programs
+
+		Copilot (backseat programmer)
+		watches the driver
+		probably nags a lot
+		makes corrections and suggestions
+		can switch anytime
+
+	Why would we do this?
+		Elements of development, tutoring and review
+	"Two heads are 1.7 times better than one"
+	benefits:
+		Real time code reviews
+		Avoid distractions***
+		increasted awareness and confidence
+		Making the same decision is more powerful than one
+			avoid making decisions from a single perspective
+		Knowlege and information migration
+
+	There is evidence that pair programming is more efficient than two programmers working separately
+	Supports collective ownership and responsibility --Both individuals are responsible if something goes wrong
+	It acts like an informal review process because the code is looked at by at least two people
+
+	Studies have shown that with more experienced programmers, the results were not replicated--they were better off working alone
+
+
+	EXERCISE:
+		Pair programming:  Programmer writes instructions for taking care of the dog while the owner is away, backseat programmer does his backseat programming
+		thing.
+
+	1: Feed the dog twice every day, 3 yellow cups of the food in the bin, morning and evening 8-10am, 6-8pm
+		Place 3 scoops of the cup placed in the bin.  Make him sit and wait for you to tell him it is okay to eat.  Tell him he's a good boy when he starts to 		eat
+	2: Let him out in the afternoon and clean him up at night.  If he asks to go out, let him go.  Watch him to make sure he does not eat his poop.
+	3: Walk him for one hour total, (can take him for one long walk or two shorter walks).  Stay away from aggressive looking dogs.  Take at least 3 poop bags.
+	4: Bathe him once every week on Friday or Saturday.
+	5: Make sure his water dish is full at all times
+	6: If he is restless, play fetch with him in the back yard for at least ten minutes
+		When he comes back with his ball tell him to "Leave it" if he does not drop it.  Give him a treat and tell him he's a good boy when he's done.

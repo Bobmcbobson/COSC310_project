@@ -1,0 +1,70 @@
+September 28, 2012
+
+The result of a project plan is the creation of a document
+	A charter, statement of work
+		what the project is
+	Academia: project proposal and/or project plan
+		how it will be carried out
+	also some justificaton for both
+
+	plan = WBS + Staffing + cost + schedule
+
+Why bother with a project plan?
+	who will read it?
+		I will
+		my prof (in academia)
+		client
+	when might it be useful?
+		when a new team member comes in
+		if you forget something
+		gives you direction at the beginning of the project
+		at the end - to make sure things were not missed
+	Is it worth it?
+		Decide for yourself
+			must come up with a plan for this course in A2
+
+Creating a project plan
+	Decompose the project into WBS
+	Assign hardware to human resources
+		multiple people may require the same hardware which can't be shared
+	estimate schedule required
+	budget estimation
+don't plan in secret
+
+plans should be reviewed and approved by people who carry them out
+
+Project plan as a benchmark
+	provides a high level view of
+		project objectives
+		major work activities
+		deliveralbes
+		milestones
+			events that happen (ex: prototype 1 is done)
+		required resources
+		schedule
+		budget
+becoms the benchmark for controlling the project execution
+	most important part of the document
+
+Project plans in agile models?
+	what is the equivalent of a project plan in XP?
+		There isn't one!  We plan minimally
+	what can we do to back-engineer a project plan? (what purpose does it serve?)
+		Sometimes it is asked to do this
+
+
+Work product vs deliverables
+	work product
+		anything tangible produced by the project
+		might not give it all to the client
+	deliverables
+		give these to the client
+
+types of WBS
+	product view
+		depicts hierarchical relationship between software modules
+	process view
+		depicts hierarchical relationship between work activities
+		listening to steps that need to be done
+	both are necessary and need to be considered in sizing and estimation
+
